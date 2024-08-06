@@ -7,11 +7,46 @@
     "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
   },
   {
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "इंटर्नशिप का महत्व",
+    "section": "",
+    "text": "प्रैक्टिकल ज्ञान: इंटर्नशिप के दौरान छात्रों को वास्तविक जीवन के कार्य अनुभव प्राप्त होते हैं। यह उन्हें किताबी ज्ञान को व्यवहार में लाने का मौका देता है1. नेटवर्किंग: इंटर्नशिप के माध्यम से छात्रों को प्रोफेशनल नेटवर्क बनाने का अवसर मिलता है। यह नेटवर्क भविष्य में नौकरी पाने में मददगार साबित हो सकता है2. करियर प्लानिंग: इंटर्नशिप से छात्रों को यह समझने में मदद मिलती है कि वे किस क्षेत्र में करियर बनाना चाहते हैं। यह उनके करियर की दिशा निर्धारित करने में सहायक होता है3. सॉफ्ट स्किल्स: इंटर्नशिप के दौरान छात्रों को टीम वर्क, कम्युनिकेशन स्किल्स, और टाइम मैनेजमेंट जैसी महत्वपूर्ण सॉफ्ट स्किल्स सीखने का मौका मिलता है1. रिज्यूमे में सुधार: इंटर्नशिप का अनुभव छात्रों के रिज्यूमे को मजबूत बनाता है, जिससे उन्हें नौकरी पाने में आसानी होती है2. स्वतंत्रता और आत्मविश्वास: इंटर्नशिप के दौरान छात्रों को स्वतंत्र रूप से काम करने का मौका मिलता है, जिससे उनका आत्मविश्वास बढ़ता है3. इंटर्नशिप छात्रों को न केवल उनके करियर में बल्कि उनके व्यक्तिगत विकास में भी महत्वपूर्ण योगदान देती है। यह उन्हें वास्तविक दुनिया के कार्य वातावरण से परिचित कराती है और उन्हें भविष्य के लिए तैयार करती है।\nक्या आप इंटर्नशिप के किसी विशेष क्षेत्र के बारे में जानना चाहते हैं?"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother blogpost example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nइंटर्नशिप का महत्व\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCome and eat something new\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My Personal Webpage",
+    "section": "",
+    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Webpage",
+    "section": "",
+    "text": "Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "Blogpost Example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "objectID": "posts/post_with_code.html",
@@ -21,10 +56,10 @@
     "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/recipie.html",
+    "href": "posts/recipie.html",
+    "title": "Come and eat something new",
     "section": "",
-    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
+    "text": "Ingredients: For Marination: 1 kg chicken (preferably with bones) 1 cup yogurt 1.5 tsp red chili powder 1 tsp turmeric powder 2 tbsp ginger garlic paste 1 tsp garam masala powder Salt to taste 2 tbsp lemon juice For Rice: 2 cups basmati rice 4 cups water 1 bay leaf 4 cloves 2 cardamom pods 1 cinnamon stick Salt to taste For Biryani: 2 large onions, thinly sliced 1/2 cup ghee or oil 1/4 cup milk A pinch of saffron Fresh coriander and mint leaves, chopped 2 green chilies, slit Instructions: Marinate the Chicken: In a large bowl, mix yogurt, red chili powder, turmeric powder, ginger garlic paste, garam masala powder, salt, and lemon juice. Add the chicken pieces and coat them well with the marinade. Cover and refrigerate for at least 2 hours, preferably overnight. Prepare the Rice: Wash the basmati rice thoroughly and soak it in water for 30 minutes. In a large pot, bring 4 cups of water to a boil. Add bay leaf, cloves, cardamom pods, cinnamon stick, and salt. Add the soaked rice and cook until it’s 70% done. Drain the rice and set aside. Fry the Onions: Heat ghee or oil in a large pan. Add the sliced onions and fry until they are golden brown and crispy. Remove and set aside. Layer the Biryani: In a heavy-bottomed pot, spread a layer of marinated chicken at the bottom. Add a layer of partially cooked rice over the chicken. Sprinkle fried onions, chopped coriander, mint leaves, and slit green chilies. Repeat the layers until all the chicken and rice are used up. Soak saffron in warm milk and drizzle it over the top layer of rice. Dum Cooking: Cover the pot with a tight-fitting lid. You can seal the edges with dough to trap the steam inside. Cook on low heat for about 30-40 minutes until the chicken is fully cooked and the rice is tender. Serve: Gently fluff up the biryani with a fork, ensuring the layers remain intact. Serve hot with raita or your favorite side dish. Enjoy your flavorful and aromatic Hyderabadi Chicken Biryani! 🍛"
   }
 ]
