@@ -17,32 +17,28 @@ website:
       - about.qmd
   sidebar:
     style: "docked"
-    logo: "./images/user_image.png"
+    logo: "./images/Ashlin_image2.jpeg"
     search: true
     collapse-level: 2
     contents:
       - icon: github
         text: Github
-        url: https://github.com
+        url: https://github.com/Ashlin-Rose-Manoj
       - icon: twitter
         text: Twitter
         url: https://twitter.com
       - icon: Email
       - text: "Email"
-        url: mailto:siju.swamy@saintgits.org
-      - text: "ORCID"
-        url: https://orcid.org/<orcid-id>
-      - text: "Google Scholar"
-        url: https://scholar.google.com/citations?user=<google-scholar-user>
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Alert** - This Website is created using `Quarto` and Published as Github Pages"
-    type: primary
-    position: below-navbar
+        url: mailto:ashlinrosemanoj@gmail.com
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/ashlin-rose-manoj/
+
+
+
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
   

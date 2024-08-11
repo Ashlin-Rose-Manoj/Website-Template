@@ -1,7 +1,5 @@
 ---
-title: "My Personal Webpage"
+title: "Ashlin Rose Manoj"
 ---
 
-Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I'm coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you'll find insights into my projects, interests, and the journey I'm on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a dedicated BTech Computer Science Engineering student with a passion for technology and innovation. With a strong foundation in programming, problem-solving, and software development, I am eager to apply my skills to real-world challenges. I am constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
